@@ -1,9 +1,9 @@
-Terraform AWS EC2 Deployment
+# Terraform AWS EC2 Deployment
 
 This project contains Terraform configurations to provision an
 Ubuntu EC2 instance on AWS using infrastructure as code (IaC).
 
-Stack Used
+# Stack Used
 
 Terraform (v1.x+)
 
@@ -19,7 +19,7 @@ AWS Security Group
 
 
 
-What It Does
+# What It Does
 
 
 Creates an Ubuntu EC2 instance
@@ -39,7 +39,7 @@ Outputs the public IP of the EC2 instance
 
 
 
-Requirements
+# Requirements
 
 AWS CLI configured (aws configure)
 
