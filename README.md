@@ -12,14 +12,7 @@ AWS Key Pair
 
 AWS Security Group
 
-Project Structure
 
-├── main.tf                # Define EC2 instance
-├── variables.tf           # All input variables
-├── terraform.tfvars       # Default values for variables
-├── outputs.tf             # Output public IP
-├── security.tf            # Key pair & security groups
-└── provider.tf            # AWS provider setup
 
 
  What It Does
