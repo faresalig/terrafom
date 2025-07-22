@@ -1,0 +1,20 @@
+# Ignore Terraform directories and state files
+.terraform/
+*.tfstate
+*.tfstate.*
+
+*.backup
+*.tfvars
+*.hcl
+.crash
+*.log
+
+# Ignore plan output
+*.tfplan
+
+# Ignore OS / IDE files
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
